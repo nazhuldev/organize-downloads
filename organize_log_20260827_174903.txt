@@ -1,0 +1,2 @@
+organize_log_20260827_110331.txt  ->  Documents/organize_log_20260827_110331.txt
+run_organize.bat  ->  Others/run_organize.bat
